@@ -3,3 +3,4 @@
 = igual
 == igual?
 != diferente
+% resto da divisão
