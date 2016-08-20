@@ -1,0 +1,5 @@
+> maior que
+< menor que
+= igual
+== igual?
+!= diferente

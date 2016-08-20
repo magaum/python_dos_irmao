@@ -1,0 +1,33 @@
+marcadores de números decimais %d %"variável a ser substituida"
+exemplo
+a = 22
+print ('o %d é longe pra krl' %a) 
+
+-----------------------------------------------------------------------------
+
+marcadores de palavras %s ,%"variável a ser substituida"
+exemplo
+a = 'batata'
+print ('%s é gostosa' %a)
+
+-----------------------------------------------------------------------------
+
+marcadores de números flutuantes (float) %f  %"variável a ser substituida"
+exemplo
+a = 3.14
+print ('pi %f' %a)
+
+OBS.: para tirar os números extras é necessário digitar %."números que vão aparecer depois da vírgula" f.
+exemplo
+print ('pi %.2f' %a)
+
+exibir determindados valores
+exemplo
+x = 12345678
+
+output
+
+[3:8]		[:8]		[3:]		[-1]	[::]
+34567		01234567	345678		8	8
+
+
